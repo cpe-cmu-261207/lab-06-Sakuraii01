@@ -1,9 +1,3 @@
-import {
-  IconChevronDown,
-  IconChevronUp,
-  IconMailForward,
-  IconMapPins,
-} from "@tabler/icons";
 import axios from "axios";
 import { useState } from 'react'
 import Card from "../component/Card";
@@ -53,7 +47,7 @@ export default function Home() {
 
       {/* made by section */}
       <p className="text-center mt-3 text-muted fst-italic">
-        made by Chayanin Suatap 12345679
+        made by Pearl Kurokami 640612094
       </p>
     </div>
   );
